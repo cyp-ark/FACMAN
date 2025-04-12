@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/0dd72a1c-6d9a-47b1-8da8-44b13c1ce87b)# fa02-fin-FACMAN
-- 삼정 Future Academy 최종 프로젝트 템플릿입니다. 
----------------------------------------
-
 # 프로젝트 계획서
 
 ## 1. 프로젝트 개요
